@@ -1,7 +1,10 @@
 /*  your css code here. If applicable */
-div{
+#topdiv{
 	position:center;
 	border:2px black solid;
 	background-color:lightblue;
 	
+}
+.childdiv{
+	text-align:center;
 }
